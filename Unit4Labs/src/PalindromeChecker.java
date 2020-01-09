@@ -1,3 +1,4 @@
+//Coded by Stephen Colandro
 import java.util.*;
 public class PalindromeChecker {
 	
